@@ -31,4 +31,4 @@ This project demonstrates a hybrid routing environment implemented in GNS3 using
 - Verification screenshots
 
 ## Author
-Talha Khan
+Talha Asghar
